@@ -1,7 +1,7 @@
 #内网ip段
 IP-CIDR,10.10.10.0/24,no-resolve
 
-DOMAIN,sunset.host,no-resolve
+
 DOMAIN,nas,no-resolve
 DOMAIN,op,no-resolve
 DOMAIN,emby,no-resolve

@@ -2,25 +2,6 @@
 DOMAIN-SUFFIX,mwcy.net
 IP-CIDR,10.10.10.0/24,no-resolve
 
-DOMAIN,nas
-DOMAIN,op
-DOMAIN,emby
-DOMAIN,ikuai
-DOMAIN,mtv
-DOMAIN,clash
-DOMAIN,wallos
-DOMAIN,opt
-DOMAIN,n1
-DOMAIN,lucky
-DOMAIN,nasf
-DOMAIN,nasp
-DOMAIN,cali
-DOMAIN,alist
-DOMAIN,lsky
-DOMAIN,chin
-DOMAIN,zhu
-DOMAIN-SUFFIX,cc.cc
-
 
 # IPv4
 IP-CIDR,10.0.0.0/8,no-resolve

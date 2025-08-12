@@ -1,6 +1,7 @@
 #内网ip段
 IP-CIDR,10.10.10.0/24,no-resolve
 
+DOMAIN,sunset.host
 DOMAIN,nas
 DOMAIN,op
 DOMAIN,emby
@@ -19,4 +20,5 @@ DOMAIN,lsky
 DOMAIN,chin
 DOMAIN,zhu
 DOMAIN-SUFFIX,cc.cc
+
 

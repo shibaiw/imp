@@ -20,6 +20,7 @@ DOMAIN,alist,no-resolve
 DOMAIN,lsky,no-resolve
 DOMAIN,chin,no-resolve
 DOMAIN,zhu,no-resolve
+DOMAIN,wmm,no-resolve
 DOMAIN-SUFFIX,cc.cc,no-resolve
-
+DOMAIN,wmm.wjrcc.top,no-resolve
 

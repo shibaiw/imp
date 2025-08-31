@@ -1,6 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 IP-CIDR,10.10.10.0/24,no-resolve
-
+DOMAIN,gh.701702.xyz
 
 # IPv4
 IP-CIDR,10.0.0.0/8,no-resolve

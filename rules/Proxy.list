@@ -2,7 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-
+DOMAIN,browserleaks.com,no-resolve
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 # IP段匹配
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.com
+
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,surfsharkdns.com

@@ -25,11 +25,7 @@ DOMAIN-SUFFIX,wang.com,no-resolve
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 IP-CIDR,10.10.10.0/24,no-resolve
 IP-CIDR,10.0.5.0/24,no-resolve
-DOMAIN-SUFFIX,chat.wjrcc.top
-DOMAIN-SUFFIX,mt.wjrcc.top
-DOMAIN-SUFFIX,git.wjrcc.top
-DOMAIN-SUFFIX,rey.wjrcc.top
-DOMAIN-SUFFIX,chin.wjrcc.top
+
 DOMAIN-SUFFIX,mwcy.net
 
 # IPv4
